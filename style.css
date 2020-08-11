@@ -139,6 +139,19 @@ section
     display: none;
 }
 
+footer{
+  position: center;
+  text-align: center;
+  font-size: 0.5em;
+}
+
+footer a{
+  position: center;
+  text-align: center;
+  font-size: 1em;
+  color: red;
+}
+
 /*
 @media (max-width: 480px)//Mobiles
 {
