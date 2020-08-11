@@ -8,4 +8,4 @@ Visulaizations are impactful was learning new things. This website has been crea
   <li>Heap</li>
 </ul>
 
-For Visulaizations, click [here](#)
+For Visulaizations, click [here](https://sanya-sharma.github.io/Sorting-Algorithms-Visualizer/)
